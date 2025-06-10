@@ -1,5 +1,6 @@
 # Melro WiFier v1.0
 Lightweight Wi-Fi penetration testing project for educational and research purposes using a Raspberry Pi.
+![WhatsApp Image 2025-06-04 at 09 58 25](https://github.com/user-attachments/assets/276c7012-e79a-47e0-b34f-91aa3fb73931)
 
 # Run
 Start with "python3 main.py" in a root terminal
